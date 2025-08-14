@@ -1,6 +1,6 @@
 # ProblemPatch — Landing
 
-For patchwizard-ui
+For ProblemPatch.io
 
 Public marketing site for ProblemPatch: hero, how-it-works, problem feed preview, and CTAs.
 

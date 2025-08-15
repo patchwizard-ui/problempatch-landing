@@ -15,5 +15,6 @@ jobs:
           node-version: 20
           cache: 'pnpm'
       - run: corepack enable
+      - run: npm install -g pnpm
       - run: pnpm i
       - run: pnpm build
